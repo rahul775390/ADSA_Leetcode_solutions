@@ -18,6 +18,16 @@ What's Inside
 
 🧠 Growing Collection – I keep solving and adding more problems regularly
 
+
+🎯 Goal
+
+🚀 Build a strong foundation for DSA & problem solving
+
+📈 Practice consistently & track progress
+
+🤝 Help others by sharing categorized problems and solutions
+
+
   
   
 
