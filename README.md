@@ -4,11 +4,11 @@ Welcome to my personal collection of LeetCode problem solutions! This repository
 
 ---
 
-## 📚 What's Inside
+##  What's Inside
 
-- 📌 **Categorized Solutions** – Sliding Window, Binary Search, String Manipulation, and more  
-- 🔗 **Direct Submission Links** – Jump straight to the solution page on LeetCode  
-- 🧠 **Growing Collection** – I keep solving and adding more problems regularly  
+-  **Categorized Solutions** – Sliding Window, Binary Search, String Manipulation, and more  
+-  **Direct Submission Links** – Jump straight to the solution page on LeetCode  
+-  **Growing Collection** – I keep solving and adding more problems regularly  
 
 ---
 
@@ -16,37 +16,26 @@ Welcome to my personal collection of LeetCode problem solutions! This repository
 
 ## 🎯 Goal
 
-- 🚀 Build a strong foundation for **DSA & problem solving**
-- 📈 Practice consistently & track progress
-- 🤝 Help others by sharing categorized problems and solutions
+-  Build a strong foundation for **DSA & problem solving**
+-  Practice consistently & track progress
+-  Help others by sharing categorized problems and solutions
+
 
 ---
 
-## ✨ How to Use
+##  Contributions & Feedback
 
-1. Open [`LeetCode.md`](./LeetCode.md)
-2. Browse by category 🏷️
-3. Click any problem name to view my exact **LeetCode submission page**
-
----
-
-## 🌱 Contributions & Feedback
-
-This is a personal repository but if you find a mistake or want to suggest a better solution, feel free to:
-- Open an **Issue** 📝
-- Start a **Discussion** 💬
-- Share your thoughts with a PR 🔧
+Want to contribute or suggest improvements? Feel free to fork the repo, submit pull requests, or open issues. Collaboration is always welcome!
 
 ---
 
 ## ☕ Support
 
-If you find this helpful, consider giving this repo a ⭐ on GitHub.  
-Let's keep solving and growing together! 🧠🔥  
+If you find this helpful, consider giving this repo on GitHub.  
+Let's keep solving and growing together! 
 
 ---
 
-> 💡 *"Consistency is the key to mastering DSA — one problem at a time."*
 
   
   
