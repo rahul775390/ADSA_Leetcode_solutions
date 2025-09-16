@@ -5,24 +5,11 @@ Welcome to my personal collection of LeetCode problem solutions! This repository
 -  Covers a wide range of topics: Arrays, Strings, Trees, Graphs, Dynamic Programming, and more.
 -  Written in java. 
 -  Organized by difficulty: Easy, Medium, Hard
--  Includes problem description, approach, and code comments for clarity
+-  Includes problem description, approach, and code comments for clarity.
+
   
- �️ Folder Structur
-leetcode-solutions/
-│
-├── Easy/
-│   ├── two-sum.py
-│   └── reverse-string.py
-│
-├── Medium/
-│   ├── longest-substring-without-repeating.py
-│   └── group-anagrams.py
-│
-├── Hard/
-│   ├── median-of-two-sorted-arrays.py
-│   └── regular-expression-matching.py
-│
-└── README.md
+  
+
 
 
 
