@@ -62,6 +62,7 @@
 - [1. Two Sum ](https://leetcode.com/submissions/detail/1767123302/)
 - [485. Max Consecutive Ones](https://leetcode.com/submissions/detail/1766810308/)
 - [26. Remove Duplicates from Sorted Array]()
+- [75. Sort Colors](https://leetcode.com/submissions/detail/1773743920/)
 
 ---
 
