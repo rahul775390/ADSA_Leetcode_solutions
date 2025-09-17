@@ -5,7 +5,7 @@
 ## 📌 Sliding Window / Prefix Sum
 
 - [209. Minimum Size Subarray Sum](https://leetcode.com/submissions/detail/1770069930/)
-- [643. Maximum Average Subarray I]( https://leetcode.com/submissions/1758058003)
+- [643. Maximum Average Subarray I](https://leetcode.com/submissions/detail/1758058003/)
 
 ---
 
@@ -44,6 +44,7 @@
 - [647. Palindromic Substrings]()
 - [680. Valid Palindrome II]()
 - [125. Valid Palindrome]()
+- [1446. Consecutive Characters](https://leetcode.com/submissions/detail/1766840617/)
 
 ---
 
@@ -58,6 +59,8 @@
 
 ## 📌 Array / Two-Pointer
 
+- [1. Two Sum ](https://leetcode.com/submissions/detail/1767123302/)
+- [485. Max Consecutive Ones](https://leetcode.com/submissions/detail/1766810308/)
 - [26. Remove Duplicates from Sorted Array]()
 
 ---
