@@ -63,6 +63,7 @@
 - [485. Max Consecutive Ones](https://leetcode.com/submissions/detail/1766810308/)
 - [26. Remove Duplicates from Sorted Array]()
 - [75. Sort Colors](https://leetcode.com/submissions/detail/1773743920/)
+- [31. Next Permutation](https://leetcode.com/submissions/detail/1774218160/)
 
 ---
 
