@@ -66,6 +66,7 @@
 - [75. Sort Colors](https://leetcode.com/submissions/detail/1773743920/)
 - [31. Next Permutation](https://leetcode.com/submissions/detail/1774218160/)
 - [128. Longest Consecutive Sequence](https://leetcode.com/submissions/detail/1776008916/)
+- [73. Set Matrix Zeroes](https://leetcode.com/submissions/detail/1776857876/)
 
 ---
 
