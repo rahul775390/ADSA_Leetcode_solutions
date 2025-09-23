@@ -1,3 +1,4 @@
+
 # 🧠 LeetCode Solutions (With My Submissions)
 
 ---
@@ -68,6 +69,8 @@
 - [128. Longest Consecutive Sequence](https://leetcode.com/submissions/detail/1776008916/)
 - [73. Set Matrix Zeroes](https://leetcode.com/submissions/detail/1776857876/)
 - [48. Rotate Image](https://leetcode.com/submissions/detail/1776930003/)
+- [54. Spiral Matrix](https://leetcode.com/submissions/detail/1779401998/)
+
 
 ---
 
