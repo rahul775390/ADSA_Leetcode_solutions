@@ -72,6 +72,7 @@
 - [54. Spiral Matrix](https://leetcode.com/submissions/detail/1779401998/)
 - [560. Subarray Sum Equals K](https://leetcode.com/submissions/detail/1780496372/)
 - [35. Search Insert Position](https://leetcode.com/submissions/detail/1781500784/)
+- [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/submissions/detail/1782610664/)
 
 
 ---
