@@ -17,6 +17,7 @@
 - [69. Sqrt(x)]()
 - [162. Find Peak Element]()
 - [704. Binary Search](https://leetcode.com/submissions/detail/1774883589/)
+- [33. Search in Rotated Sorted Array](https://leetcode.com/submissions/detail/1783101648/)
 
 ---
 
