@@ -13,12 +13,12 @@
 ## 📌 Binary Search / Math
 
 - [50. Pow(x, n)]()
-- [33. Search in Rotated Sorted Array]()
 - [69. Sqrt(x)]()
 - [162. Find Peak Element]()
 - [704. Binary Search](https://leetcode.com/submissions/detail/1774883589/)
 - [33. Search in Rotated Sorted Array](https://leetcode.com/submissions/detail/1783101648/)
 - [35. Search Insert Position](https://leetcode.com/submissions/detail/1781500784/)
+- [81. Search in Rotated Sorted Array II](https://leetcode.com/submissions/detail/1784080888/)
 
 ---
 
