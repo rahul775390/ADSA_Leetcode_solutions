@@ -19,6 +19,7 @@
 - [33. Search in Rotated Sorted Array](https://leetcode.com/submissions/detail/1783101648/)
 - [35. Search Insert Position](https://leetcode.com/submissions/detail/1781500784/)
 - [81. Search in Rotated Sorted Array II](https://leetcode.com/submissions/detail/1784080888/)
+- [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/submissions/detail/1784913339/)
 
 ---
 
