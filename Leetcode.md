@@ -20,46 +20,14 @@
 - [35. Search Insert Position](https://leetcode.com/submissions/detail/1781500784/)
 - [81. Search in Rotated Sorted Array II](https://leetcode.com/submissions/detail/1784080888/)
 - [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/submissions/detail/1784913339/)
-
----
-
-## 📌 Math / Sieve of Eratosthenes
-
-- [204. Count Primes]()
-
----
-
-## 📌 Simulation / Prefix Sum
-
-- [2391. Minimum Amount of Time to Collect Garbage]()
-
----
-
-## 📌 String / Pattern Matching
-
-- [890. Find and Replace Pattern]()
-- [791. Custom Sort String]()
-- [2325. Decode the Message]()
-- [242. Valid Anagram]()
+- [540. Single Element in a Sorted Array](https://leetcode.com/submissions/detail/1786498484/)
 
 ---
 
 ## 📌 String / Palindrome & Substring Problems
 
-- [647. Palindromic Substrings]()
-- [680. Valid Palindrome II]()
-- [125. Valid Palindrome]()
 - [1446. Consecutive Characters](https://leetcode.com/submissions/detail/1766840617/)
-
----
-
-## 📌 String Manipulation
-
-- [709. To Lower Case]()
-- [1910. Remove All Occurrences of a Substring]()
-- [1047. Remove All Adjacent Duplicates In String]()
-- [27. Remove Element]()
-
+  
 ---
 
 ## 📌 Array / Two-Pointer
@@ -79,8 +47,5 @@
 
 ---
 
-## 📌 Math / Bit Manipulation / Division
 
-- [7. Reverse Integer]()
-- [29. Divide Two Integers]()
 
