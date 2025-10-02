@@ -22,6 +22,8 @@
 - [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/submissions/detail/1784913339/)
 - [540. Single Element in a Sorted Array](https://leetcode.com/submissions/detail/1786498484/)
 - [162. Find Peak Element](https://leetcode.com/submissions/detail/1787518378/)
+- [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/submissions/detail/1789402906/)
+- [875. Koko Eating Bananas](https://leetcode.com/submissions/detail/1788515329/)
 
 ---
 
