@@ -24,6 +24,7 @@
 - [162. Find Peak Element](https://leetcode.com/submissions/detail/1787518378/)
 - [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/submissions/detail/1789402906/)
 - [875. Koko Eating Bananas](https://leetcode.com/submissions/detail/1788515329/)
+- [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/submissions/detail/1790448647/)
 
 ---
 
