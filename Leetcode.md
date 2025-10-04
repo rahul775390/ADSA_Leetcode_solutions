@@ -25,6 +25,7 @@
 - [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/submissions/detail/1789402906/)
 - [875. Koko Eating Bananas](https://leetcode.com/submissions/detail/1788515329/)
 - [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/submissions/detail/1790448647/)
+- [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/submissions/detail/1791352464/)
 
 ---
 
