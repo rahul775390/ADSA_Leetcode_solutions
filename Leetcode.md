@@ -27,6 +27,7 @@
 - [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/submissions/detail/1790448647/)
 - [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/submissions/detail/1791352464/)
 - [1539. Kth Missing Positive Number](https://leetcode.com/submissions/detail/1791730269/)
+- [410. Split Array Largest Sum](https://leetcode.com/submissions/detail/1793473923/)
 
 ---
 
