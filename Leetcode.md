@@ -29,6 +29,7 @@
 - [1539. Kth Missing Positive Number](https://leetcode.com/submissions/detail/1791730269/)
 - [410. Split Array Largest Sum](https://leetcode.com/submissions/detail/1793473923/)
 - [4. Median of Two Sorted Arrays](https://leetcode.com/submissions/detail/1794494148/)
+- [74. Search a 2D Matrix](https://leetcode.com/submissions/detail/1795511464/)
 ---
 
 ## 📌 String / Palindrome & Substring Problems
