@@ -12,9 +12,6 @@
 
 ## 📌 Binary Search / Math
 
-- [50. Pow(x, n)]()
-- [69. Sqrt(x)]()
-- [162. Find Peak Element]()
 - [704. Binary Search](https://leetcode.com/submissions/detail/1774883589/)
 - [33. Search in Rotated Sorted Array](https://leetcode.com/submissions/detail/1783101648/)
 - [35. Search Insert Position](https://leetcode.com/submissions/detail/1781500784/)
@@ -30,6 +27,7 @@
 - [410. Split Array Largest Sum](https://leetcode.com/submissions/detail/1793473923/)
 - [4. Median of Two Sorted Arrays](https://leetcode.com/submissions/detail/1794494148/)
 - [74. Search a 2D Matrix](https://leetcode.com/submissions/detail/1795511464/)
+- [240. Search a 2D Matrix II](https://leetcode.com/submissions/detail/1796535634/)
 ---
 
 ## 📌 String / Palindrome & Substring Problems
