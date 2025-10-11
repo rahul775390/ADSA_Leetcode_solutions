@@ -34,6 +34,7 @@
 ## 📌 String / Palindrome & Substring Problems
 
 - [1446. Consecutive Characters](https://leetcode.com/submissions/detail/1766840617/)
+- [1021. Remove Outermost Parentheses](https://leetcode.com/submissions/detail/1798502848/)
   
 ---
 
