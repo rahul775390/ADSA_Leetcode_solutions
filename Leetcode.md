@@ -52,6 +52,7 @@
 - [560. Subarray Sum Equals K](https://leetcode.com/submissions/detail/1780496372/)
 - [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/submissions/detail/1782610664/)
 - [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/submissions/detail/1799557974/)
+- [26. Remove Duplicates from Sorted Array](https://leetcode.com/submissions/detail/1800570690/)
 
 
 ---
