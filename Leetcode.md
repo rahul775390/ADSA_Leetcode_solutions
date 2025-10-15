@@ -29,6 +29,7 @@
 - [74. Search a 2D Matrix](https://leetcode.com/submissions/detail/1795511464/)
 - [240. Search a 2D Matrix II](https://leetcode.com/submissions/detail/1796535634/)
 - [1901. Find a Peak Element II](https://leetcode.com/submissions/detail/1797580434/)
+- [7. Reverse Integer](https://leetcode.com/submissions/detail/1802613932/)
 ---
 
 ## 📌 String / Palindrome & Substring Problems
