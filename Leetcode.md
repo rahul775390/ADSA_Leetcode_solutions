@@ -55,6 +55,7 @@
 - [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/submissions/detail/1799557974/)
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/submissions/detail/1800570690/)
 - [58. Length of Last Word](https://leetcode.com/submissions/detail/1801638133/)
+- [189. Rotate Array](https://leetcode.com/u/rahulshukla234/)
 
 
 ---
