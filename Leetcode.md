@@ -60,6 +60,7 @@
 - [283. Move Zeroes](https://leetcode.com/u/rahulshukla234/)
 - [525. Contiguous Array](https://leetcode.com/submissions/detail/1816919071/)
 - [88. Merge Sorted Array](https://leetcode.com/submissions/detail/1816924023/)
+- [27. Remove Element](https://leetcode.com/submissions/detail/1816946464/)
 
 
 ---
