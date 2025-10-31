@@ -57,6 +57,7 @@
 - [58. Length of Last Word](https://leetcode.com/submissions/detail/1801638133/)
 - [189. Rotate Array](https://leetcode.com/u/rahulshukla234/)
 - [283. Move Zeroes](https://leetcode.com/u/rahulshukla234/)
+- [525. Contiguous Array](https://leetcode.com/submissions/detail/1816919071/)
 
 
 ---
