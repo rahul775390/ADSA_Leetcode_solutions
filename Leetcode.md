@@ -64,7 +64,7 @@
 - [268. Missing Number](https://leetcode.com/submissions/detail/1817834898/)
 - [485. Max Consecutive Ones](https://leetcode.com/submissions/detail/1817839146/)
 - [136. Single Number](https://leetcode.com/submissions/detail/1817843457/)
-
+-[1752. Check if Array Is Sorted and Rotated](https://leetcode.com/submissions/detail/1817847760/)
 
 ---
 
