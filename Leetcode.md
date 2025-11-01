@@ -61,6 +61,7 @@
 - [525. Contiguous Array](https://leetcode.com/submissions/detail/1816919071/)
 - [88. Merge Sorted Array](https://leetcode.com/submissions/detail/1816924023/)
 - [27. Remove Element](https://leetcode.com/submissions/detail/1816946464/)
+- [268. Missing Number](https://leetcode.com/submissions/detail/1817834898/)
 
 
 ---
