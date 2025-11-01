@@ -63,6 +63,7 @@
 - [27. Remove Element](https://leetcode.com/submissions/detail/1816946464/)
 - [268. Missing Number](https://leetcode.com/submissions/detail/1817834898/)
 - [485. Max Consecutive Ones](https://leetcode.com/submissions/detail/1817839146/)
+- [136. Single Number](https://leetcode.com/submissions/detail/1817843457/)
 
 
 ---
